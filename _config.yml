@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Vox Nihili
+description:    "A bilingual co-production in the form of a blog maintained by some students."
+baseurl:        ""
+url:            "https://voxnihi.li"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Vox Nihili
+  url:          https://voxnihi.li
+  email:        
 
 # Build settings
 markdown:       kramdown
@@ -23,5 +23,5 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+permalink:      /:title
+paginate:       7
