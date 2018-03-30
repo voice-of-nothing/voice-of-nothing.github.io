@@ -4,19 +4,25 @@ title: "Fényzavar"
 author: "T.F.T."
 ---
  
-*Képzeld el,
-Állsz a hídon ahol már
-Oly sokszor álltál vágyakozva.
- 
-Vágyakozva
-Egy egy plüss macira
-Új biciklire, fagyira, labdára.
-  
-Álmodozva
-Jobb jegyről, barátokról,
-Hosszabb hajról, szerelemről.
+*Képzeld el,*
 
-Imádkozva
+*Állsz a hídon ahol már*
+
+*Oly sokszor álltál vágyakozva.*
+ 
+
+
+*Vágyakozva
+
+*Egy egy plüss macira*
+
+*Új biciklire, fagyira, labdára.*
+  
+*Álmodozva*
+*Jobb jegyről, barátokról,*
+*Hosszabb hajról, szerelemről.*
+
+*Imádkozva*
 Egy jó érettségiért, életekért
 Tartós kapcsolatokért és magadért.
 
